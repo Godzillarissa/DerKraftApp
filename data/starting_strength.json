@@ -1,0 +1,48 @@
+{ 
+	"name" : "Starting Strength",
+	"workouts" : 
+	[
+		{
+			"name" : "A",
+			"exercises" : 
+			[
+				{
+					"name" : "Back Squat",
+					"sets" : 3,
+					"reps" : 5
+				},
+				{
+					"name" : "Bench Press",
+					"sets" : 3,
+					"reps" : 5
+				},
+				{
+					"name" : "Deadlift",
+					"sets" : 1,
+					"reps" : 5
+				}
+			]
+		}, 
+		{
+			"name" : "B",
+			"exercises" : 
+			[
+				{
+					"name" : "Back Squat",
+					"sets" : 3,
+					"reps" : 5
+				},
+				{
+					"name" : "Overhead Press",
+					"sets" : 3,
+					"reps" : 5
+				},
+				{
+					"name" : "Deadlift",
+					"sets" : 1,
+					"reps" : 5
+				}
+			]
+		}
+	]
+}
